@@ -1,0 +1,34 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(149, 194, 233);
+    padding: 10px;
+
+}
+.toapp{
+    width: 100%;
+    max-width: 540px;
+    background-color: #fff;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+
+}
+.toapp h2{
+    color: #002765;
+    display:flex;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+.toapp h2 img{
+width: 30px;
+margin-left:10px;
+
+}
